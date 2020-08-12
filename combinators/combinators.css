@@ -1,0 +1,27 @@
+section p{
+    font-family: fantasy;
+    font-weight: normal;
+    color: red;
+}
+
+section > p{
+    border-bottom: 1px solid maroon;
+}
+
+h1 + p{
+    font-weight: bolder;
+    text-align: center;    
+}
+
+h1 ~ p{
+    color: rgb(250, 221, 183);
+    font-family: sans-serif;
+}
+
+h1{
+    font-family: fantasy;
+}
+
+section {
+    max-width: 200px;
+}

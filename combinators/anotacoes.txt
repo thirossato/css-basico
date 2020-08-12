@@ -1,0 +1,6 @@
+Combinators são usados para definir o relacionamento entre elementos.
+Existem apenas 4 seletores de css:
+Descendent(barra de espaço), que seleciona todos os elementos filhos do elemento.
+Child(>), seleciona o primeiro filho direto do elemento.
+Adjacent sibling (+), seleciona o primeiro irmão do elemento.
+General sibling (~), seleciona todos os irmãos do elemento.
