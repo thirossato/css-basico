@@ -1,0 +1,27 @@
+body{
+    font-family: fantasy;
+}
+h1, h2 {
+    color: burlywood;
+}
+
+ul li{
+    background-color: cadetblue;
+}
+
+li{
+    background-color: chocolate;
+}
+
+.hero{
+    background-color: crimson;
+    font-weight: bold;
+}
+
+#tao-pai-pai{
+    background-color: hotpink;
+}
+
+input[type="number"] {
+    border-radius: 13px;
+}

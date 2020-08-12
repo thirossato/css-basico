@@ -1,0 +1,9 @@
+Ordem de prioridade dos seletores:
+Os seletores seguem a ordem do mais específico para o mais genérico.
+
+ID > Classe > elemento
+
+Usamos ID quando queremos aplicar um estilo em um elemento único
+Classe quando queremos aplicar um estilo em vários elementos
+
+Podemos também combinar os seletores conforme necessário
